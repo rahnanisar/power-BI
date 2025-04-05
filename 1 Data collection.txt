@@ -1,0 +1,53 @@
+1 Data collection
+2 data cleaning
+3 model creation
+4 performance evaluation
+5 improvement of model
+
+
+#values kodth machine train cheyykunne mahcine learning
+2 types supervisedLearning,UnsupervisedLearning,reinforcemnt Larning
+
+
+1)inputdata outdata kodth tarin cheykkune method(labelled data
+
+2)only give input its note labelled data
+
+3)its a relationship between agent and environment by using AI
+
+1)classification(categorical) ,regression(numerical)types in supervisedLearning
+2)clustering  is similar data grouping
+regression is numerical
+
+
+
+MACHINE learning PIPE LINE
+
+1 data preprocessing
+2 model bulding
+
+cross tab for 2 categorical columns
+scatter plot for 2 numerical
+bar plot 1numerical,1categorical
+
+
+
+
+UNIVARIATE
+2PLOT DENSITY(NUM) CATYEGO(BARPLOTS)
+
+
+BIVARIATE
+INPUT AND TARGET
+cross tab for 2 categorical columns
+scatter plot for 2 numerical
+bar plot 1numerical,1categorical
+
+MULTIVAIRATE
+2INP,TARGET
+
+
+
+
+
+
